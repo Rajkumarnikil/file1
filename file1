@@ -2,8 +2,6 @@ GIT TEST 1
 GIT TEST 2
 GIT TEST 3
 GIT TEST 4
-<<<<<<< HEAD
-=======
 GIT TEST 5
->>>>>>> sindhu
+GIT TEST 6
 
